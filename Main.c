@@ -485,7 +485,7 @@ int TimeDelay(unsigned int timeWait)
         
     return 0;
 }
-//TEST
+
 int Xout_H_(unsigned int xOut)
 {   
     unsigned int xBit = xOut;    
